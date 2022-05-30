@@ -1,0 +1,40 @@
+{
+  "noticias": [
+    {
+      "id": 1,
+      "imagem": "",
+      "titulo": "Teste",
+      "descricao": "Testando o json"
+    },
+    {
+      "id": 2,
+      "imagem": "",
+      "titulo": "Teste2",
+      "descricao": "Testando o json2"
+    },
+    {
+      "id": 3,
+      "imagem": "",
+      "titulo": "Teste3",
+      "descricao": "Testando o json3"
+    },
+    {
+      "id": 4,
+      "imagem": "",
+      "titulo": "Teste4",
+      "descricao": "Testando o json4"
+    },
+    {
+      "id": 5,
+      "imagem": "",
+      "titulo": "Teste5",
+      "descricao": "Testando o json5"
+    },
+    {
+      "id": 6,
+      "imagem": "",
+      "titulo": "Teste6",
+      "descricao": "Testando o json6"
+    }
+  ]
+}
