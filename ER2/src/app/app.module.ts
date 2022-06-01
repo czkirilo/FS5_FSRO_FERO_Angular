@@ -7,14 +7,16 @@ import { AppComponent } from './app.component';
 import { HomeComponent } from './views/home/home.component';
 import { ContatoComponent } from './views/contato/contato.component';
 import { HeaderComponent } from './views/header/header.component';
-import { HttpClientModule } from '@angular/common/http';
+import { HttpClientModule} from '@angular/common/http';
+import { LoginComponent } from './views/login/login.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HomeComponent,
     ContatoComponent,
-    HeaderComponent
+    HeaderComponent,
+    LoginComponent
   ],
   imports: [
     BrowserModule,

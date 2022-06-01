@@ -7,8 +7,8 @@ import { Noticia } from '../models/noticia';
   providedIn: 'root'
 })
 export class NoticiasService {
-
-  url = "http://localhost:3000/noticias"
+   
+  url = "http://localhost:3000/noticias"    
 
   constructor(private httpClient: HttpClient) { }
 
@@ -16,3 +16,4 @@ export class NoticiasService {
     return this.httpClient.get<Noticia[]>(this.url)
   }
 }
+ 

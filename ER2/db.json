@@ -1,40 +1,48 @@
 {
+  "users": [
+    {
+      "email": "jessica@email.com",
+      "password": "$2a$10$iGJ299qlaXco/uSmKAOX.eYF4sI5QFOU8Ng9.OyWF18SBfMsAq9B6",
+      "nome": "Jessicar",
+      "id": 1
+    }
+  ],
   "noticias": [
     {
       "id": 1,
       "imagem": "",
       "titulo": "Teste",
-      "descricao": "Testando o json"
+      "descricao": "testando"
     },
     {
       "id": 2,
       "imagem": "",
-      "titulo": "Teste2",
-      "descricao": "Testando o json2"
+      "titulo": "Teste Json",
+      "descricao": "testando json"
     },
     {
       "id": 3,
       "imagem": "",
-      "titulo": "Teste3",
-      "descricao": "Testando o json3"
+      "titulo": "Teste",
+      "descricao": "testando"
     },
     {
       "id": 4,
       "imagem": "",
-      "titulo": "Teste4",
-      "descricao": "Testando o json4"
+      "titulo": "Teste Json",
+      "descricao": "testando json"
     },
     {
       "id": 5,
       "imagem": "",
-      "titulo": "Teste5",
-      "descricao": "Testando o json5"
+      "titulo": "Teste",
+      "descricao": "testando"
     },
     {
       "id": 6,
       "imagem": "",
-      "titulo": "Teste6",
-      "descricao": "Testando o json6"
+      "titulo": "Teste Json",
+      "descricao": "testando json"
     }
   ]
 }
